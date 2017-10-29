@@ -3,8 +3,26 @@
   
     
     <entry>
+      <title><![CDATA[本网站启用域名，并加https]]></title>
+      <url>/2017/10/29/mysite/</url>
+      <content type="html"><![CDATA[<p> ####https</p>
+<pre><code>哈哈，域名要使用https，不用http。
+其实吧，就是用的国外的一个服务商Cloudflare，
+他那里提供https，免费cdn等等，还是比较好的一家提供商。
+</code></pre>]]></content>
+      
+        
+        <tags>
+            
+            <tag> 重大事件 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[我的第一篇文章]]></title>
-      <url>/2017/10/18/new/</url>
+      <url>/2017/10/19/new/</url>
       <content type="html"><![CDATA[<p>我刚才刚刚搭建完，这个hexo真好用。</p>
 <h3 id="谢谢了hexo-io"><a href="#谢谢了hexo-io" class="headerlink" title="谢谢了hexo.io"></a>谢谢了hexo.io</h3>]]></content>
       
